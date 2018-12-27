@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+# après le caractère dièse, ce sont des commentaires...
+La_route_d_un_nombre_au_hasard:
+  path: /UnNombreHasard
+  controller: App\Controller\nouvellepage::nombre
